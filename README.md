@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 - Name: Sebastian
 - Discord: sbmsr#1463
 - Website: https://webdevwithseb.com
-- Maintainer of [JobSimulator.Dev](https://github.com/developer-job-simulation), real-world coding challenges that simulate the day to day work of a software developer.
-
-
-![My fancy profile](https://github-readme-stats.vercel.app/api?username=sbmsr&show_icons=true&theme=onedark)
+- Maintainer of [CodebaseMentor.com](https://github.com/developer-job-simulation), real-world coding challenges that simulate the day to day work of a software developer.
