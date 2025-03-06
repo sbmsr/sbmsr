@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - Name: Sebastian
 - Discord: [sbmsr#1463](https://discordapp.com/users/sbmsr#1463)
-- Website: https://webdevwithseb.com
+- Website: https://sbmsr.com
 - Maintainer of [CodebaseMentor.com](https://github.com/developer-job-simulation), real-world coding challenges that simulate the day to day work of a software developer.
